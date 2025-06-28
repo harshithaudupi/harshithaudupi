@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Harshitha U!
 
-Welcome to my GitHub profile — where ideas turn into code! 🚀  
+Welcome to my GitHub profile! 🚀  
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhtdjdpZGFpMmdpM2F3cHlpMnlxa2s2NWhpbWgyaWgxMG5vZXZvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Welcome Anime" width="400"/>
+</p>
 
 ---
-
-## 🚀 Tech Stack I Work With:
 
 ## 🚀 Tech Stack
 
@@ -16,7 +18,6 @@ Welcome to my GitHub profile — where ideas turn into code! 🚀
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ---
 
@@ -32,9 +33,7 @@ Welcome to my GitHub profile — where ideas turn into code! 🚀
 
 ## 📫 Connect with Me:
 
-- 📧 Email: [](mailto:udupi.harshitha@gmail.com)
+- 📧 Email: [udupi.harshitha@gmail.com](mailto:udupi.harshitha@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshitha-u-50b307249/)
 
 ---
-
-
