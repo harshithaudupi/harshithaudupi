@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 💫 About Me:
-- 🌱 I’m currently exploring **Full Stack Development**  
+- 🌱 I’m currently exploring **Full Stack Development** and **Automation** 
 - 🤖 Interested in learning **Machine Learning**  and **Data Science**  
 - 🎨 Hobbies: **Cooking, Singing, Listening to Songs, Painting**  
 - ✈️ Love to **travel and experience new cultures**
